@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App-12 Alert Dialogs</string>
+    <string name="show_dialog">SHOW Dialog</string>
+    <string name="dialog_title">My Dialog</string>
+    <string name="dialog_message">Hello I am Your Dialog</string>
+    <string name="positive_button">YES</string>
+    <string name="negative_button">NO</string>
+</resources>
